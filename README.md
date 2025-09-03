@@ -123,3 +123,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 For support, email support@carrental.com or create an issue in the repository. 
+# Car-Rental-Website
+Project made using HTML, CSS, JS AND PHP with recommendation algorithm.
