@@ -1,0 +1,3 @@
+# This is a placeholder for car images
+# In a real implementation, this would be an actual PNG image file
+# For now, the system will use the onerror handler to show a text placeholder 
